@@ -1,2 +1,2 @@
 # books
-Application to detect books
+Application to detect books in images
